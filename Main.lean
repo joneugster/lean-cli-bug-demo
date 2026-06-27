@@ -5,7 +5,7 @@ open Cli
 
 meta def exampleCmd : Cmd := `[Cli|
   exampleCmd VIA runExampleCmd; ["0.0.1"]
-  "Works in v4.29.1"
+  "Not showing in v4.30.0"
 
   FLAGS:
     t;            "not implemented"

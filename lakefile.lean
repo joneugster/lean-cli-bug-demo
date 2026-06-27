@@ -1,7 +1,7 @@
 import Lake
 open Lake DSL
 
-require "leanprover" / Cli @ git "7802da01beb530bf051ab657443f9cd9bc3e1a29"
+require "leanprover" / Cli @ git "6b907cf12b2e445ccb7c24bc208ef04a1f39e84c"
 
 package "CliDemo" where
   version := v!"0.1.0"
